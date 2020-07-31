@@ -2,4 +2,4 @@
 
 **My implementation of Tsinghua University's Deep Learning Summer School Individual Lab**
 
-Fashion Appreciating model with Deep Neural Netwoe
+Fashion Appreciating model with Deep Neural Network using TensorFlow
